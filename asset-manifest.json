@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-KGB-magnum/static/css/main.a7356d86.css",
+    "main.js": "/monsters-KGB-magnum/static/js/main.90bd91a3.js",
+    "static/js/787.1d7fd638.chunk.js": "/monsters-KGB-magnum/static/js/787.1d7fd638.chunk.js",
+    "index.html": "/monsters-KGB-magnum/index.html",
+    "main.a7356d86.css.map": "/monsters-KGB-magnum/static/css/main.a7356d86.css.map",
+    "main.90bd91a3.js.map": "/monsters-KGB-magnum/static/js/main.90bd91a3.js.map",
+    "787.1d7fd638.chunk.js.map": "/monsters-KGB-magnum/static/js/787.1d7fd638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7356d86.css",
+    "static/js/main.90bd91a3.js"
+  ]
+}
